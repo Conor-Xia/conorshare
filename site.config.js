@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '8436e615b4648ecb843c6538c72aa5b',
+  rootNotionPageId: 'e8436e615b4648ecb843c6538c72aa5b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'conor-share',
-  domain: 'conor-share.it',
-  author: 'Conor',
+  name: 'conorshare',
+  domain: 'conorshare.it',
+  author: 'conor',
 
   // open graph metadata (optional)
   description: 'Example site description',
