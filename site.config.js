@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'conorshare',
-  domain: 'conorshare.it',
+  name: 'Conor share',
+  domain:'https://www.notion.so/Conor-s-Bolg-e8436e615b4648ecb843c6538c72aa5b ',
   author: 'conor',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  qq: '3282670653',
+  //qq: '3282670653',
   github: 'Conor-Xia',
-  linkedin: 'C',
+  //linkedin: 'C',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
